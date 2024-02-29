@@ -1,0 +1,186 @@
+{
+    "Sheet1": [
+      
+      {
+        "icon":"img1",
+        "Name": "Dr. Meeravali Shaikh",
+        "Qualification": "B. Tech (CSE), M. Tech (CSE),Ph. D (CSE)",
+        "Position": "HOD",
+        "Experience": "Experience :13 Years"
+      },
+      {
+        "icon":"img2",
+        "Name": "Dr.Arun Singh Chouhan",
+        "Qualification": "B.E (CSE),M. Tech (CSE),Ph. D (CSE)",
+        "Position": "Associate Professor",
+        "Experience": "Experience :15 Years"
+      },
+      {
+        "icon":"img3",
+        "Name": "Dr.M.Narayanan",
+        "Qualification": "B.E (CSE), M.E (CSE),Ph. D (CSE)",
+        "Position": "Professor",
+        "Experience": "Experience :17 Years"
+      },
+      {
+        "icon":"img4",
+        "Name": "Dr.P.Rambabu",
+        "Qualification": "B.Tech(Civil), M. Tech(Remote Sensing),Ph. D(Remote Sensing)",
+        "Position": "Professor",
+        "Experience": "Experience :20 Years (Industry),13 Years (Teaching)"
+      },
+      {
+        "icon":"img5",
+        "Name": "Dr.M.Ravikanth",
+        "Qualification": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
+        "Position": "Associate Professor",
+        "Experience": "Experience :17 Years"
+      },
+      {
+        "icon":"img6",
+        "Name": "Dr. T. Phanindra",
+        "Qualification": "B. Tech(EEE), M. Tech (EEE), Ph.D (EEE)",
+        "Position": "Associate Professor",
+        "Experience": "Experience :12 Years"
+      },
+      {
+        "icon":"img7",
+        "Name": "Dr.B.Jogeswara Rao",
+        "Qualification": "MSc (Comp), M. Tech (CSE), Ph. D (CSE)",
+        "Position": "Associate Professor",
+        "Experience": "Experience :13 Years"
+      },
+      {
+        "icon":"img8",
+        "Name": "Dr.M.Santhosh Kumar Goud",
+        "Qualification": "B.Tech (EEE), MS(Photonics),Ph. D (EEE)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :13 Years"
+      },
+      {
+        "icon":"img9",
+        "Name": "Dr. P. Aurchana",
+        "Qualification": "MCA, M. Tech (CSE),Ph. D (CSE)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :7 Years (Teaching), 4 Years (Full Ph.D)"
+      },
+      {
+        "icon":"img10",
+        "Name": "Mr. Naveen Kumar Navuri",
+        "Qualification": "B. Tech(IT), M. Tech (CSE), Ph.D Pursuing",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :13 Years"
+      },
+      {
+        "icon":"img11",
+        "Name": "Mr. G. Raju",
+        "Qualification": "MCA, M. Tech (CSE),Ph. D Pursuing",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :13 Years"
+      },
+      {
+        "icon":"img12",
+        "Name": "Mr. M.Krishna Kishore",
+        "Qualification": "B. Tech (IT), M. Tech (CSE), Ph. D (Pursuing)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :12 Years"
+      },
+      {
+        "icon":"img13",
+        "Name": "Mrs.D.Suneetha",
+        "Qualification": "B. Tech (CSE), M. Tech (CSE), Ph. D Pursuing",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :10 Years"
+      },
+      {
+        "icon":"img14",
+        "Name": "T.Indira Priyadarshini",
+        "Qualification": "B. Tech (CSE), M. Tech (CSE),Ph.D (Pursuing)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :9.5 Years"
+      },
+      {
+        "icon":"img15",
+        "Name": "Mrs. P.Sabitha",
+        "Qualification": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :6.5 Years"
+      },
+      {
+        "icon":"img16",
+        "Name": "Mrs. B. Tejaswi",
+        "Qualification": "B. Tech (CSE), M. Tech (CNIS),Ph. D (Pursuing)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :10 Years"
+      },
+      {
+        "icon":"img17",
+        "Name": "T.Srajan Kumar",
+        "Qualification": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :9 Years"
+      },
+      {
+        "icon":"img18",
+        "Name": "Mr. N.V.Krishna Rao",
+        "Qualification": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :21 Years"
+      },
+      {
+        "icon":"img19",
+        "Name": "Mrs. P.Shyamala",
+        "Qualification": "M. Tech (CSE), MCA",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :17 Years"
+      },
+      {
+        "icon":"img20",
+        "Name": "Mr. M.Gouthamm",
+        "Qualification": "B. Tech (CSE), M. Tech (CSE)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :9 Years"
+      },
+      {
+        "icon":"img21",
+        "Name": "M.Mounika",
+        "Qualification": "B. Tech (CSIT), M. Tech (CSE)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :10 Years"
+      },
+      {
+        "icon":"img22",
+        "Name": "G.Trinadha Rao",
+        "Qualification": "MCA, M. Tech (CSE)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :10 Years"
+      },
+      {
+        "icon":"img23",
+        "Name": "S.Monika",
+        "Qualification": "B. E (CSE), M.E (CSE)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :8.8 Years"
+      },
+      {
+        "icon":"img24",
+        "Name": "Mrs. S.Sowmya",
+        "Qualification": "B. Tech (CSIT), MS (CSIT)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :6 Years"
+      },
+      {
+        "icon":"img25",
+        "Name": "Mrs. K. Manasa",
+        "Qualification": "B. Tech (CSE), M. Tech (CSE)",
+        "Position": "Assistant Professor",
+        "Experience": "Experience :3.5 Years"
+      },
+      {
+        "icon":"img26",
+        "Name": "Mr. G. Kishore Kumar",
+        "Qualification": "B. Tech(EEE), M. Tech (EEE)",
+        "Position": "Assistant Professor"
+      }
+    ]
+  }
